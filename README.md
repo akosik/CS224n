@@ -1,0 +1,1 @@
+# Assignments from Stanford's CS224n NLP with Deep Learning course
